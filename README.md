@@ -9,6 +9,7 @@
   - [csv](/python/standard%20library/csv.ipynb)
   - [datetime](/python/standard%20library/datetime.ipynb)
   - [itertools](/python/standard%20library/itertools.ipynb)
+  - [re](/python/!standard%20library/re.ipynb)
   - [standard1](/python/standard%20library/standard1.ipynb)
   - [standard2](/python/standard%20library/standard2.ipynb)
   - [timeit](/python/standard%20library/timeit.ipynb)
