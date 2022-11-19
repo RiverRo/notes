@@ -2,6 +2,14 @@
 
 > All my coding notes in one place
 
+## document
+
+- [path_languages](/document/path_languages.ipynb)
+
+## macOS
+
+- [commands](/macOS/commands.ipynb)
+
 ## python
 
 - [!Standard Library](/python/!standard.ipynb)
@@ -9,6 +17,7 @@
   - [csv](/python/standard%20library/csv.ipynb)
   - [datetime](/python/standard%20library/datetime.ipynb)
   - [itertools](/python/standard%20library/itertools.ipynb)
+  - [random](/python/!standard%20library/random.ipynb)
   - [re](/python/!standard%20library/re.ipynb)
   - [standard1](/python/standard%20library/standard1.ipynb)
   - [standard2](/python/standard%20library/standard2.ipynb)
