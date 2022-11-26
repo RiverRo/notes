@@ -1,0 +1,1681 @@
+
+            Sep:02 08:49:51AM
+            ticker: DCTH
+            time_diff: 2989000
+            Number of good keywords included: 0
+            spread: 0.7199999999999989
+            
+
+            
+            Sep:02 08:49:51AM
+            ticker: CTG
+            time_diff: 3803000
+            Number of good keywords included: 0
+            spread: 0.3000000000000007
+            
+
+            
+            Sep:02 08:49:51AM
+            ticker: HSDT
+            time_diff: 6222000
+            Number of good keywords included: 0
+            spread: 0.45000000000000107
+            
+
+            
+            Sep:02 08:49:51AM
+            ticker: BOLT
+            time_diff: 6586000
+            Number of good keywords included: 0
+            spread: 0.379999999999999
+            
+
+            
+            Sep:02 08:49:51AM
+            ticker: VOR
+            time_diff: 6586000
+            Number of good keywords included: 0
+            spread: 0.4599999999999991
+            
+
+            
+            Sep:02 08:49:52AM
+            ticker: PLRX
+            time_diff: 6588000
+            Number of good keywords included: 0
+            spread: 0.5600000000000023
+            
+
+            
+            Sep:02 08:49:52AM
+            ticker: AYLA
+            time_diff: 6588000
+            Number of good keywords included: 0
+            spread: 0.47999999999999865
+            
+
+            
+            Sep:02 08:49:52AM
+            ticker: LNSR
+            time_diff: 6590000
+            Number of good keywords included: 0
+            spread: 0.33999999999999986
+            
+
+            
+            Sep:02 08:49:52AM
+            ticker: ADAG
+            time_diff: 7490000
+            Number of good keywords included: 0
+            spread: 0.5
+            
+
+            
+            Sep:02 08:49:53AM
+            ticker: DBTX
+            time_diff: 8389000
+            Number of good keywords included: 0
+            spread: 0.379999999999999
+            
+
+            
+            Sep:02 08:49:53AM
+            ticker: OPT
+            time_diff: 10188000
+            Number of good keywords included: 0
+            spread: 0.33999999999999986
+            
+
+            
+            Sep:02 08:49:53AM
+            ticker: TALS
+            time_diff: 10189000
+            Number of good keywords included: 0
+            spread: 0.5800000000000001
+            
+
+            
+            Sep:02 08:49:53AM
+            ticker: IKNA
+            time_diff: 10190000
+            Number of good keywords included: 0
+            spread: 0.5399999999999991
+            
+
+            
+            Sep:02 08:49:53AM
+            ticker: KZIA
+            time_diff: 15255000
+            Number of good keywords included: 0
+            spread: 0.5800000000000001
+            
+
+            
+            Sep:02 08:49:54AM
+            ticker: ADXN
+            time_diff: 31790000
+            Number of good keywords included: 0
+            spread: 0.3100000000000005
+            
+
+            
+            Sep:02 09:17:58AM
+            ticker: GDP
+            time_diff: -1000
+            Number of good keywords included: 0
+            spread: 0.3500000000000014
+            
+
+            
+            Sep:03 08:21:13AM
+            ticker: FFHL
+            time_diff: 700000
+            Number of good keywords included: 0
+            spread: 1.790000000000001
+            
+
+            
+            Sep:03 08:21:13AM
+            ticker: UCL
+            time_diff: 1272000
+            Number of good keywords included: 0
+            spread: 0.7000000000000002
+            
+
+            
+            Sep:03 08:21:14AM
+            ticker: GIFI
+            time_diff: 1873000
+            Number of good keywords included: 0
+            spread: 0.8300000000000001
+            
+
+            
+            Sep:03 08:21:14AM
+            ticker: CLVR
+            time_diff: 2771000
+            Number of good keywords included: 0
+            spread: 0.4800000000000004
+            
+
+            
+            Sep:03 08:21:14AM
+            ticker: PESI
+            time_diff: 3073000
+            Number of good keywords included: 1
+            spread: 0.4400000000000004
+            
+
+            
+            Sep:03 08:21:14AM
+            ticker: VNCE
+            time_diff: 3073000
+            Number of good keywords included: 0
+            spread: 5.8500000000000005
+            
+
+            
+            Sep:03 08:21:14AM
+            ticker: MSGM
+            time_diff: 3073000
+            Number of good keywords included: 0
+            spread: 1.5
+            
+
+            
+            Sep:03 08:21:15AM
+            ticker: IPA
+            time_diff: 3193000
+            Number of good keywords included: 0
+            spread: 0.4499999999999993
+            
+
+            
+            Sep:03 08:21:15AM
+            ticker: SEED
+            time_diff: 3971000
+            Number of good keywords included: 0
+            spread: 0.5399999999999991
+            
+
+            
+            Sep:03 08:21:15AM
+            ticker: IDN
+            time_diff: 4093000
+            Number of good keywords included: 0
+            spread: 0.75
+            
+
+            
+            Sep:03 08:21:15AM
+            ticker: PHVS
+            time_diff: 4873000
+            Number of good keywords included: 0
+            spread: 13.96
+            
+
+            
+            Sep:03 08:21:16AM
+            ticker: URGN
+            time_diff: 4873000
+            Number of good keywords included: 0
+            spread: 1.1999999999999993
+            
+
+            
+            Sep:03 08:21:16AM
+            ticker: VECT
+            time_diff: 7573000
+            Number of good keywords included: 0
+            spread: 0.9199999999999999
+            
+
+            
+            Sep:03 08:21:16AM
+            ticker: TLYS
+            time_diff: 10071000
+            Number of good keywords included: 0
+            spread: 0.3100000000000005
+            
+
+            
+            Sep:03 08:21:16AM
+            ticker: CMCL
+            time_diff: 21797000
+            Number of good keywords included: 0
+            spread: 0.3000000000000007
+            
+
+            
+            Sep:03 08:48:58AM
+            ticker: RNGR
+            time_diff: -2000
+            Number of good keywords included: 0
+            spread: 0.35000000000000053
+            
+
+            
+            Sep:03 09:44:22AM
+            ticker: ANY
+            time_diff: 1476000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:44:22AM
+            ticker: RNGR
+            time_diff: 1827000
+            Number of good keywords included: 0
+            spread: 0.1299999999999999
+            
+
+            
+            Sep:03 09:44:23AM
+            ticker: OMEX
+            time_diff: 3382000
+            Number of good keywords included: 1
+            spread: 0.07000000000000028
+            
+
+            
+            Sep:03 09:44:23AM
+            ticker: FFHL
+            time_diff: 5689000
+            Number of good keywords included: 0
+            spread: 0.4499999999999993
+            
+
+            
+            Sep:03 09:44:23AM
+            ticker: INVO
+            time_diff: 6260000
+            Number of good keywords included: 0
+            spread: 0.03000000000000025
+            
+
+            
+            Sep:03 09:44:23AM
+            ticker: UCL
+            time_diff: 6261000
+            Number of good keywords included: 0
+            spread: 0.3199999999999994
+            
+
+            
+            Sep:03 09:44:24AM
+            ticker: CTHR
+            time_diff: 6343000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:44:24AM
+            ticker: GNLN
+            time_diff: 6543000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:47:21AM
+            ticker: CMCL
+            time_diff: 26965000
+            Number of good keywords included: 0
+            spread: 0.20000000000000107
+            
+
+            
+            Sep:03 09:47:22AM
+            ticker: APOP
+            time_diff: 15445000
+            Number of good keywords included: 0
+            spread: 0.020000000000000462
+            
+
+            
+            Sep:03 09:47:22AM
+            ticker: TLYS
+            time_diff: 15239000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:47:22AM
+            ticker: CNCE
+            time_diff: 13641000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:47:22AM
+            ticker: IMRA
+            time_diff: 13641000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:47:22AM
+            ticker: PHIO
+            time_diff: 13339000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:47:23AM
+            ticker: NGVC
+            time_diff: 13219000
+            Number of good keywords included: 0
+            spread: 0.02999999999999936
+            
+
+            
+            Sep:03 09:47:23AM
+            ticker: VECT
+            time_diff: 12741000
+            Number of good keywords included: 0
+            spread: 0.040000000000000924
+            
+
+            
+            Sep:03 09:47:23AM
+            ticker: BLCM
+            time_diff: 11841000
+            Number of good keywords included: 0
+            spread: 0.03000000000000025
+            
+
+            
+            Sep:03 09:47:23AM
+            ticker: ACIU
+            time_diff: 10469000
+            Number of good keywords included: 1
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:47:24AM
+            ticker: PHVS
+            time_diff: 10041000
+            Number of good keywords included: 0
+            spread: 1.1700000000000017
+            
+
+            
+            Sep:03 09:47:24AM
+            ticker: URGN
+            time_diff: 10041000
+            Number of good keywords included: 0
+            spread: 0.14000000000000057
+            
+
+            
+            Sep:03 09:47:24AM
+            ticker: LOKB
+            time_diff: 9620000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:47:24AM
+            ticker: AEY
+            time_diff: 9293000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:47:25AM
+            ticker: IDN
+            time_diff: 9261000
+            Number of good keywords included: 0
+            spread: 0.10999999999999943
+            
+
+            
+            Sep:03 09:47:25AM
+            ticker: SEED
+            time_diff: 9139000
+            Number of good keywords included: 0
+            spread: 0.09999999999999964
+            
+
+            
+            Sep:03 09:47:25AM
+            ticker: SPOK
+            time_diff: 8977000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:47:25AM
+            ticker: IPA
+            time_diff: 8361000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:47:26AM
+            ticker: PESI
+            time_diff: 8241000
+            Number of good keywords included: 1
+            spread: 0.14000000000000057
+            
+
+            
+            Sep:03 09:47:26AM
+            ticker: VNCE
+            time_diff: 8241000
+            Number of good keywords included: 0
+            spread: 0.08999999999999986
+            
+
+            
+            Sep:03 09:47:26AM
+            ticker: MSGM
+            time_diff: 8241000
+            Number of good keywords included: 0
+            spread: 0.21000000000000085
+            
+
+            
+            Sep:03 09:47:26AM
+            ticker: INM
+            time_diff: 7939000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:47:26AM
+            ticker: CLVR
+            time_diff: 7939000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:47:27AM
+            ticker: GNRS
+            time_diff: 7939000
+            Number of good keywords included: 0
+            spread: 0.030000000000001137
+            
+
+            
+            Sep:03 09:47:27AM
+            ticker: EFOI
+            time_diff: 7341000
+            Number of good keywords included: 0
+            spread: 0.05999999999999961
+            
+
+            
+            Sep:03 09:47:27AM
+            ticker: PHX
+            time_diff: 7266000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:47:27AM
+            ticker: NM
+            time_diff: 7043000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:47:28AM
+            ticker: GIFI
+            time_diff: 7041000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:47:28AM
+            ticker: GNLN
+            time_diff: 6722000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:47:28AM
+            ticker: CTHR
+            time_diff: 6522000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:47:28AM
+            ticker: UCL
+            time_diff: 6440000
+            Number of good keywords included: 0
+            spread: 0.16999999999999993
+            
+
+            
+            Sep:03 09:47:28AM
+            ticker: INVO
+            time_diff: 6439000
+            Number of good keywords included: 0
+            spread: 0.03000000000000025
+            
+
+            
+            Sep:03 09:47:29AM
+            ticker: FFHL
+            time_diff: 5868000
+            Number of good keywords included: 0
+            spread: 0.4499999999999993
+            
+
+            
+            Sep:03 09:47:29AM
+            ticker: OMEX
+            time_diff: 3561000
+            Number of good keywords included: 1
+            spread: 0.07000000000000028
+            
+
+            
+            Sep:03 09:47:29AM
+            ticker: RNGR
+            time_diff: 2006000
+            Number of good keywords included: 0
+            spread: 0.1299999999999999
+            
+
+            
+            Sep:03 09:47:29AM
+            ticker: ANY
+            time_diff: 1655000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:52:21AM
+            ticker: ANY
+            time_diff: 1953000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:52:21AM
+            ticker: RNGR
+            time_diff: 2304000
+            Number of good keywords included: 0
+            spread: 0.1299999999999999
+            
+
+            
+            Sep:03 09:52:21AM
+            ticker: OMEX
+            time_diff: 3859000
+            Number of good keywords included: 1
+            spread: 0.08000000000000007
+            
+
+            
+            Sep:03 09:52:21AM
+            ticker: FFHL
+            time_diff: 6166000
+            Number of good keywords included: 0
+            spread: 0.2900000000000009
+            
+
+            
+            Sep:03 09:52:21AM
+            ticker: INVO
+            time_diff: 6737000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:52:22AM
+            ticker: UCL
+            time_diff: 6738000
+            Number of good keywords included: 0
+            spread: 0.16999999999999993
+            
+
+            
+            Sep:03 09:52:22AM
+            ticker: CTHR
+            time_diff: 6820000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:52:22AM
+            ticker: GNLN
+            time_diff: 7020000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:52:22AM
+            ticker: GIFI
+            time_diff: 7339000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:52:23AM
+            ticker: NM
+            time_diff: 7341000
+            Number of good keywords included: 0
+            spread: 0.05000000000000071
+            
+
+            
+            Sep:03 09:52:23AM
+            ticker: PHX
+            time_diff: 7564000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:52:23AM
+            ticker: EFOI
+            time_diff: 7639000
+            Number of good keywords included: 0
+            spread: 0.05999999999999961
+            
+
+            
+            Sep:03 09:52:23AM
+            ticker: INM
+            time_diff: 8237000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:52:24AM
+            ticker: CLVR
+            time_diff: 8237000
+            Number of good keywords included: 0
+            spread: 0.05000000000000071
+            
+
+            
+            Sep:03 09:52:24AM
+            ticker: GNRS
+            time_diff: 8237000
+            Number of good keywords included: 0
+            spread: 0.030000000000001137
+            
+
+            
+            Sep:03 09:52:24AM
+            ticker: PESI
+            time_diff: 8539000
+            Number of good keywords included: 1
+            spread: 0.09000000000000075
+            
+
+            
+            Sep:03 09:52:24AM
+            ticker: VNCE
+            time_diff: 8539000
+            Number of good keywords included: 0
+            spread: 0.08999999999999986
+            
+
+            
+            Sep:03 09:52:24AM
+            ticker: MSGM
+            time_diff: 8539000
+            Number of good keywords included: 0
+            spread: 0.21000000000000085
+            
+
+            
+            Sep:03 09:52:25AM
+            ticker: IPA
+            time_diff: 8659000
+            Number of good keywords included: 0
+            spread: 0.05000000000000071
+            
+
+            
+            Sep:03 09:52:25AM
+            ticker: SPOK
+            time_diff: 9275000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:52:25AM
+            ticker: SEED
+            time_diff: 9437000
+            Number of good keywords included: 0
+            spread: 0.09999999999999964
+            
+
+            
+            Sep:03 09:52:25AM
+            ticker: IDN
+            time_diff: 9559000
+            Number of good keywords included: 0
+            spread: 0.10999999999999943
+            
+
+            
+            Sep:03 09:52:26AM
+            ticker: AEY
+            time_diff: 9591000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:52:26AM
+            ticker: LOKB
+            time_diff: 9918000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:52:26AM
+            ticker: PHVS
+            time_diff: 10339000
+            Number of good keywords included: 0
+            spread: 1.1700000000000017
+            
+
+            
+            Sep:03 09:52:26AM
+            ticker: URGN
+            time_diff: 10339000
+            Number of good keywords included: 0
+            spread: 0.120000000000001
+            
+
+            
+            Sep:03 09:52:27AM
+            ticker: ACIU
+            time_diff: 10767000
+            Number of good keywords included: 1
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:52:27AM
+            ticker: BLCM
+            time_diff: 12139000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:52:27AM
+            ticker: VECT
+            time_diff: 13039000
+            Number of good keywords included: 0
+            spread: 0.040000000000000924
+            
+
+            
+            Sep:03 09:52:27AM
+            ticker: NGVC
+            time_diff: 13518000
+            Number of good keywords included: 0
+            spread: 0.030000000000001137
+            
+
+            
+            Sep:03 09:52:27AM
+            ticker: PHIO
+            time_diff: 13638000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:52:28AM
+            ticker: CNCE
+            time_diff: 13940000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:52:28AM
+            ticker: IMRA
+            time_diff: 13940000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:52:28AM
+            ticker: TLYS
+            time_diff: 15538000
+            Number of good keywords included: 0
+            spread: 0.040000000000000924
+            
+
+            
+            Sep:03 09:52:28AM
+            ticker: APOP
+            time_diff: 15744000
+            Number of good keywords included: 0
+            spread: 0.03000000000000025
+            
+
+            
+            Sep:03 09:52:29AM
+            ticker: CMCL
+            time_diff: 27264000
+            Number of good keywords included: 0
+            spread: 0.1800000000000015
+            
+
+            
+            Sep:03 09:58:05AM
+            ticker: ANY
+            time_diff: 2299000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:06AM
+            ticker: RNGR
+            time_diff: 2650000
+            Number of good keywords included: 0
+            spread: 0.1299999999999999
+            
+
+            
+            Sep:03 09:58:06AM
+            ticker: OMEX
+            time_diff: 4205000
+            Number of good keywords included: 1
+            spread: 0.08000000000000007
+            
+
+            
+            Sep:03 09:58:06AM
+            ticker: FFHL
+            time_diff: 6512000
+            Number of good keywords included: 0
+            spread: 0.27999999999999936
+            
+
+            
+            Sep:03 09:58:06AM
+            ticker: INVO
+            time_diff: 7083000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:58:07AM
+            ticker: UCL
+            time_diff: 7084000
+            Number of good keywords included: 0
+            spread: 0.16000000000000014
+            
+
+            
+            Sep:03 09:58:07AM
+            ticker: CTHR
+            time_diff: 7166000
+            Number of good keywords included: 0
+            spread: 0.010000000000000231
+            
+
+            
+            Sep:03 09:58:07AM
+            ticker: GNLN
+            time_diff: 7366000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:07AM
+            ticker: GIFI
+            time_diff: 7685000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:58:07AM
+            ticker: NM
+            time_diff: 7687000
+            Number of good keywords included: 0
+            spread: 0.019999999999999574
+            
+
+            
+            Sep:03 09:58:08AM
+            ticker: PHX
+            time_diff: 7910000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:08AM
+            ticker: EFOI
+            time_diff: 7985000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:58:08AM
+            ticker: INM
+            time_diff: 8583000
+            Number of good keywords included: 0
+            spread: 0.06000000000000005
+            
+
+            
+            Sep:03 09:58:08AM
+            ticker: CLVR
+            time_diff: 8583000
+            Number of good keywords included: 0
+            spread: 0.08000000000000007
+            
+
+            
+            Sep:03 09:58:09AM
+            ticker: GNRS
+            time_diff: 8583000
+            Number of good keywords included: 0
+            spread: 0.030000000000001137
+            
+
+            
+            Sep:03 09:58:09AM
+            ticker: PESI
+            time_diff: 8885000
+            Number of good keywords included: 1
+            spread: 0.10000000000000053
+            
+
+            
+            Sep:03 09:58:09AM
+            ticker: VNCE
+            time_diff: 8885000
+            Number of good keywords included: 0
+            spread: 0.08999999999999986
+            
+
+            
+            Sep:03 09:58:09AM
+            ticker: MSGM
+            time_diff: 8885000
+            Number of good keywords included: 0
+            spread: 0.21000000000000085
+            
+
+            
+            Sep:03 09:58:09AM
+            ticker: IPA
+            time_diff: 9005000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:58:10AM
+            ticker: SPOK
+            time_diff: 9621000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:10AM
+            ticker: SEED
+            time_diff: 9783000
+            Number of good keywords included: 0
+            spread: 0.21999999999999886
+            
+
+            
+            Sep:03 09:58:10AM
+            ticker: IDN
+            time_diff: 9905000
+            Number of good keywords included: 0
+            spread: 0.07000000000000028
+            
+
+            
+            Sep:03 09:58:10AM
+            ticker: AEY
+            time_diff: 9937000
+            Number of good keywords included: 0
+            spread: 0.04999999999999982
+            
+
+            
+            Sep:03 09:58:11AM
+            ticker: LOKB
+            time_diff: 10264000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:11AM
+            ticker: PHVS
+            time_diff: 10685000
+            Number of good keywords included: 0
+            spread: 1.1700000000000017
+            
+
+            
+            Sep:03 09:58:11AM
+            ticker: URGN
+            time_diff: 10685000
+            Number of good keywords included: 0
+            spread: 0.120000000000001
+            
+
+            
+            Sep:03 09:58:11AM
+            ticker: ACIU
+            time_diff: 11113000
+            Number of good keywords included: 1
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:58:11AM
+            ticker: BLCM
+            time_diff: 12485000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:58:12AM
+            ticker: VECT
+            time_diff: 13385000
+            Number of good keywords included: 0
+            spread: 0.2400000000000002
+            
+
+            
+            Sep:03 09:58:12AM
+            ticker: NGVC
+            time_diff: 13863000
+            Number of good keywords included: 0
+            spread: 0.030000000000001137
+            
+
+            
+            Sep:03 09:58:12AM
+            ticker: PHIO
+            time_diff: 13983000
+            Number of good keywords included: 0
+            spread: 0.020000000000000018
+            
+
+            
+            Sep:03 09:58:12AM
+            ticker: CNCE
+            time_diff: 14285000
+            Number of good keywords included: 0
+            spread: 0.040000000000000036
+            
+
+            
+            Sep:03 09:58:13AM
+            ticker: IMRA
+            time_diff: 14285000
+            Number of good keywords included: 0
+            spread: 0.03000000000000025
+            
+
+            
+            Sep:03 09:58:13AM
+            ticker: TLYS
+            time_diff: 15883000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:13AM
+            ticker: APOP
+            time_diff: 16089000
+            Number of good keywords included: 0
+            spread: 0.009999999999999787
+            
+
+            
+            Sep:03 09:58:13AM
+            ticker: CMCL
+            time_diff: 27609000
+            Number of good keywords included: 0
+            spread: 0.19000000000000128
+            
+
+            
+            Sep:03 09:59:33AM
+            ticker: FFHL
+            time_diff: 6600000
+            Number of good keywords included: 0
+            spread: 0.2900000000000009
+            
+
+            
+            Sep:03 09:59:34AM
+            ticker: PHVS
+            time_diff: 10773000
+            Number of good keywords included: 0
+            spread: 1.1700000000000017
+            
+
+            
+            Sep:07 06:32:02AM
+            ticker: CLXT
+            time_diff: 120000
+            Number of good keywords included: 0
+            spread: 0.3200000000000003
+            
+
+            
+            Sep:07 06:32:02AM
+            ticker: HSDT
+            time_diff: 1622000
+            Number of good keywords included: 0
+            spread: 1.9100000000000001
+            
+
+            
+            Sep:07 06:32:03AM
+            ticker: CLGN
+            time_diff: 1904000
+            Number of good keywords included: 0
+            spread: 3.16
+            
+
+            
+            Sep:07 06:32:03AM
+            ticker: MIST
+            time_diff: 1914000
+            Number of good keywords included: 0
+            spread: 0.34999999999999964
+            
+
+            
+            Sep:07 06:32:03AM
+            ticker: EYPT
+            time_diff: 1915000
+            Number of good keywords included: 0
+            spread: 8.93
+            
+
+            
+            Sep:07 06:32:03AM
+            ticker: AKUS
+            time_diff: 1918000
+            Number of good keywords included: 0
+            spread: 3.3900000000000006
+            
+
+            
+            Sep:07 06:32:03AM
+            ticker: LYRA
+            time_diff: 1918000
+            Number of good keywords included: 0
+            spread: 1.6900000000000004
+            
+
+            
+            Sep:07 06:32:04AM
+            ticker: GRTX
+            time_diff: 1920000
+            Number of good keywords included: 0
+            spread: 2.839999999999999
+            
+
+            
+            Sep:07 06:32:04AM
+            ticker: SRRA
+            time_diff: 1921000
+            Number of good keywords included: 0
+            spread: 22.25
+            
+
+            
+            Sep:07 06:32:04AM
+            ticker: NXTC
+            time_diff: 1921000
+            Number of good keywords included: 0
+            spread: 0.4899999999999993
+            
+
+            
+            Sep:07 06:32:04AM
+            ticker: CMPI
+            time_diff: 1921000
+            Number of good keywords included: 0
+            spread: 1.8399999999999999
+            
+
+            
+            Sep:07 06:32:05AM
+            ticker: OPFI
+            time_diff: 1921000
+            Number of good keywords included: 0
+            spread: 0.34999999999999964
+            
+
+            
+            Sep:07 06:32:05AM
+            ticker: GMTX
+            time_diff: 1922000
+            Number of good keywords included: 0
+            spread: 0.4299999999999997
+            
+
+            
+            Sep:07 06:32:05AM
+            ticker: IMUX
+            time_diff: 3628000
+            Number of good keywords included: 0
+            spread: 1.0500000000000007
+            
+
+            
+            Sep:07 06:32:05AM
+            ticker: MAGS
+            time_diff: 3719000
+            Number of good keywords included: 0
+            spread: 0.3700000000000001
+            
+
+            
+            Sep:07 06:32:05AM
+            ticker: EGAN
+            time_diff: 3722000
+            Number of good keywords included: 1
+            spread: 1.5899999999999999
+            
+
+            
+            Sep:07 06:32:06AM
+            ticker: FAT
+            time_diff: 5521000
+            Number of good keywords included: 1
+            spread: 9.9
+            
+
+            
+            Sep:07 06:32:06AM
+            ticker: CMCL
+            time_diff: 19922000
+            Number of good keywords included: 0
+            spread: 1.3100000000000005
+            
+
+            
+            Sep:07 06:32:22AM
+            ticker: IMNM
+            time_diff: 0
+            Number of good keywords included: 0
+            spread: 0.46999999999999886
+            
+
+            
+            Sep:07 07:43:30AM
+            ticker: THMO
+            time_diff: 709000
+            Number of good keywords included: 0
+            spread: 0.3599999999999999
+            
+
+            
+            Sep:07 07:43:31AM
+            ticker: BLPH
+            time_diff: 808000
+            Number of good keywords included: 0
+            spread: 0.54
+            
+
+            
+            Sep:07 07:43:31AM
+            ticker: PRPH
+            time_diff: 809000
+            Number of good keywords included: 0
+            spread: 0.33999999999999986
+            
+
+            
+            Sep:07 07:43:31AM
+            ticker: DXR
+            time_diff: 809000
+            Number of good keywords included: 0
+            spread: 10.29
+            
+
+            
+            Sep:07 07:43:31AM
+            ticker: PDSB
+            time_diff: 809000
+            Number of good keywords included: 0
+            spread: 0.47000000000000064
+            
+
+            
+            Sep:07 07:43:31AM
+            ticker: IPA
+            time_diff: 930000
+            Number of good keywords included: 0
+            spread: 1.3500000000000005
+            
+
+            
+            Sep:07 07:43:32AM
+            ticker: IDN
+            time_diff: 1830000
+            Number of good keywords included: 0
+            spread: 1.1000000000000014
+            
+
+            
+            Sep:07 07:43:32AM
+            ticker: SPRO
+            time_diff: 2310000
+            Number of good keywords included: 0
+            spread: 1.0
+            
+
+            
+            Sep:07 07:43:32AM
+            ticker: VIRX
+            time_diff: 2603000
+            Number of good keywords included: 0
+            spread: 2.0700000000000003
+            
+
+            
+            Sep:07 07:43:32AM
+            ticker: NLTX
+            time_diff: 2605000
+            Number of good keywords included: 0
+            spread: 0.9499999999999993
+            
+
+            
+            Sep:07 07:43:33AM
+            ticker: VINC
+            time_diff: 2606000
+            Number of good keywords included: 0
+            spread: 3.2200000000000006
+            
+
+            
+            Sep:07 07:43:33AM
+            ticker: TARA
+            time_diff: 2607000
+            Number of good keywords included: 0
+            spread: 0.5899999999999999
+            
+
+            
+            Sep:07 07:43:33AM
+            ticker: CADL
+            time_diff: 2608000
+            Number of good keywords included: 0
+            spread: 0.7400000000000002
+            
+
+            
+            Sep:07 07:43:33AM
+            ticker: ANEB
+            time_diff: 2610000
+            Number of good keywords included: 0
+            spread: 0.4900000000000002
+            
+
+            
+            Sep:07 07:43:34AM
+            ticker: AXLA
+            time_diff: 2730000
+            Number of good keywords included: 0
+            spread: 0.2999999999999998
+            
+
+            
+            Sep:07 07:43:34AM
+            ticker: CLXT
+            time_diff: 4408000
+            Number of good keywords included: 0
+            spread: 0.25
+            
+
+            
+            Sep:07 07:43:34AM
+            ticker: PLRX
+            time_diff: 5170000
+            Number of good keywords included: 0
+            spread: 0.3000000000000007
+            
+
+            
+            Sep:07 07:43:34AM
+            ticker: HSDT
+            time_diff: 5910000
+            Number of good keywords included: 0
+            spread: 1.9100000000000001
+            
+
+            
+            Sep:07 07:43:34AM
+            ticker: CLGN
+            time_diff: 6192000
+            Number of good keywords included: 0
+            spread: 1.8299999999999983
+            
+
+            
+            Sep:07 07:43:35AM
+            ticker: MIST
+            time_diff: 6202000
+            Number of good keywords included: 0
+            spread: 0.34999999999999964
+            
+
+            
+            Sep:07 07:43:35AM
+            ticker: EYPT
+            time_diff: 6203000
+            Number of good keywords included: 0
+            spread: 4.159999999999999
+            
+
+            
+            Sep:07 07:43:35AM
+            ticker: AKUS
+            time_diff: 6206000
+            Number of good keywords included: 0
+            spread: 2.9800000000000004
+            
+
+            
+            Sep:07 07:43:35AM
+            ticker: LYRA
+            time_diff: 6206000
+            Number of good keywords included: 0
+            spread: 1.6000000000000005
+            
+
+            
+            Sep:07 07:43:36AM
+            ticker: GRTX
+            time_diff: 6208000
+            Number of good keywords included: 0
+            spread: 2.839999999999999
+            
+
+            
+            Sep:07 07:43:36AM
+            ticker: SRRA
+            time_diff: 6209000
+            Number of good keywords included: 0
+            spread: 22.25
+            
+
+            
+            Sep:07 07:43:36AM
+            ticker: PCOM
+            time_diff: 6209000
+            Number of good keywords included: 0
+            spread: 10.399999999999999
+            
+
+            
+            Sep:07 07:43:36AM
+            ticker: CMPI
+            time_diff: 6209000
+            Number of good keywords included: 0
+            spread: 1.8399999999999999
+            
+
+            
+            Sep:07 07:43:36AM
+            ticker: OPFI
+            time_diff: 6209000
+            Number of good keywords included: 0
+            spread: 0.28999999999999915
+            
+
+            
+            Sep:07 07:43:37AM
+            ticker: IMUX
+            time_diff: 7916000
+            Number of good keywords included: 0
+            spread: 1.0099999999999998
+            
+
+            
+            Sep:07 07:43:37AM
+            ticker: MAGS
+            time_diff: 8007000
+            Number of good keywords included: 0
+            spread: 0.3600000000000003
+            
+
+            
+            Sep:07 07:43:37AM
+            ticker: EGAN
+            time_diff: 8010000
+            Number of good keywords included: 1
+            spread: 1.5899999999999999
+            
+
+            
+            Sep:07 07:43:37AM
+            ticker: FAT
+            time_diff: 9809000
+            Number of good keywords included: 1
+            spread: 9.9
+            
+
+            
+            Sep:07 07:43:38AM
+            ticker: CMCL
+            time_diff: 24210000
+            Number of good keywords included: 0
+            spread: 1.3100000000000005
+            
+
+            
+            Sep:07 07:45:03AM
+            ticker: BLCT
+            time_diff: 1000
+            Number of good keywords included: 0
+            spread: 0.25
+            
+
+            
+            Sep:07 07:45:04AM
+            ticker: HYRE
+            time_diff: 0
+            Number of good keywords included: 0
+            spread: 1.0199999999999996
+            
+
+            
+            Sep:07 02:21:45PM
+            ticker: DXR
+            time_diff: 24703000
+            Number of good keywords included: 0
+            spread: 0.5699999999999985
+            
+
+            
+            Sep:07 02:21:45PM
+            ticker: ANEB
+            time_diff: 26504000
+            Number of good keywords included: 0
+            spread: 0.2699999999999996
+            
+
+            
+            Sep:07 02:21:45PM
+            ticker: HSDT
+            time_diff: 29804000
+            Number of good keywords included: 0
+            spread: 0.2599999999999998
+            
+
+            
+            Sep:07 02:21:45PM
+            ticker: CLGN
+            time_diff: 30086000
+            Number of good keywords included: 0
+            spread: 0.2699999999999996
+            
+
+            
+            Sep:07 02:21:45PM
+            ticker: MIST
+            time_diff: 30096000
+            Number of good keywords included: 0
+            spread: 0.29000000000000004
+            
+
+            
+            Sep:07 02:21:46PM
+            ticker: SRRA
+            time_diff: 30103000
+            Number of good keywords included: 0
+            spread: 0.379999999999999
+            
+
+            
