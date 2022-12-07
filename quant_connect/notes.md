@@ -409,7 +409,7 @@ can be any native or C# type
 
 - Bemchmark can be set to custom data type (class)
 
-## CustomData ([Awesome YT Ref](https://www.youtube.com/watch?v=X7XwkHsE-4Y&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad&index=9))
+## CustomData ([Awesome YT Ref](https://www.youtube.com/watch?v=X7XwkHsE-4Y&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad&index=9)) ([YT Ref](https://www.youtube.com/watch?v=EbUEMW5135M&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad&index=19))
 
 - Custom data can be LocalFile, RemoteFile, Rest, Streaming
 - General Steps:
