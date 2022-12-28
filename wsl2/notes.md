@@ -6,6 +6,7 @@ Ubuntu WSL2 implementation via Visual Studio Code in Windows 10/11
 
 ## In This File
 
+- Jupyter notebook
 - cron, crontab
   - nano
   - cron
@@ -14,6 +15,20 @@ Ubuntu WSL2 implementation via Visual Studio Code in Windows 10/11
   - configure python program into executable script
   - generic pc sleep batch (.bat) file for windows
   - windows task scheduler
+- Download google-chrome in Ubuntu
+- Download ChromeDriver
+
+## Jupyter Notebook
+
+> Troubshoot
+
+- ERROR: Running cells with 'Python 3.10...' requires ipykernel
+
+  - [Solution](https://stackoverflow.com/questions/69785084/running-cells-with-python-3-10-requires-ipykernel-installed/71039682#71039682)
+
+    ```python
+    <path_to_python3.10..> -m pip install ipykernel
+    ```
 
 ## Cron, Crontab
 
@@ -184,6 +199,33 @@ Ubuntu WSL2 implementation via Visual Studio Code in Windows 10/11
 
         1.  Action: Start a program
         2.  Program/Script: `locate path to sleep batch (.bat) file` in windows file system (not WSL file system)
+
+## [Download Google Chrome in Ubuntu](https://stackoverflow.com/questions/69785084/running-cells-with-python-3-10-requires-ipykernel-installed/71039682#71039682)
+
+- Requirement to use Selenium
+
+  ```python
+  cd ~
+
+  # Make sure dependencies up to date
+  sudo apt update && sudo apt -y upgrade && sudo apt -y autoremove
+
+  # Download and install chrome
+  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+
+  # Check all okay
+  google-chrome --version
+  ```
+
+## [Download Google chromedriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
+
+- Requirement to use Selenium
+- Get the ChromeDriver that matches `google-chrome --version`
+  ```python
+  # Move downloaded ChromeDriver to WSL2 file system and add 'exe' suffix
+  mv /mnt/c/Users/SpicyByte/Downloads/<path to chromedriver> /home/sportybutton/drivers/chromedriver.exe
+  ```
 
 ## DOCUMENT STYLES
 
