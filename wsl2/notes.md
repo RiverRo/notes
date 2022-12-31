@@ -5,7 +5,8 @@ Ubuntu WSL2 implementation via Visual Studio Code in Windows 10/11
 > [Main Table of Contents](../README.md)
 
 ## In This File
-
+- Install databases to WSL2
+- Docker Desktop
 - Jupyter notebook
 - cron, crontab
   - nano
@@ -17,6 +18,11 @@ Ubuntu WSL2 implementation via Visual Studio Code in Windows 10/11
   - windows task scheduler
 - Download google-chrome in Ubuntu
 - Download ChromeDriver
+
+## Install databases on WSL2 [ref](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
+
+## Docker Desktop [ref](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+- 
 
 ## Jupyter Notebook
 
