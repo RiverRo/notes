@@ -51,7 +51,7 @@
   - [pandas](/python/pypi/pandas.ipynb)
   - [pytest](/python/pypi/standard%20library/pytest.ipynb)
   - [travisci](/python/pypi/travisci.ipynb)
-- [environment](./python/environment.ipynb)
+- [environment](/python/environment.ipynb)
 - [library comparisons](/python/comparisons.ipynb)
 
 ## quant_connect
