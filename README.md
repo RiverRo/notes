@@ -70,12 +70,12 @@
 
 <style>
 h1 {
-  color: DeepSkyBlue;
+  color: #1E4CF7;
 }
 h2 {
-color: yellow;
+color: #F53817;
 }
 h3 {
-  color: LightCoral;
+  color: #20B506;
 }
 </style>
