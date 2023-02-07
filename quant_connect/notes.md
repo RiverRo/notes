@@ -8,7 +8,7 @@
 [Documentation](https://www.quantconnect.com/docs/v2/)
 
 ## On This Page
-
+- CLI Installation in WSL & conda environment
 - Pitfalls / Warnings / Solutions
 - Define Algorithm Parameters
 - Important Event Handlers
@@ -38,6 +38,20 @@
 - Write code for different environments
 - Algorithm development concepts
 - Algorithm Performance and Backtest Results
+## CLI Installation
+  1. Install Docker Desktop on Windows + [all VS Code Docker extensions + installation instructions](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers) and Docker Desktop is open
+    - GOTCHA: After running `docker run hello-world` and it looks like it hangs with the message "Unable to find image 'hello-world:latest' locally" just give it a few minutes for it to pull from remote source and actually run it.
+  3. In WSL terminal: `sudo apt-get install python3-tk` [Ref](https://www.quantconnect.com/docs/v2/lean-cli/installation/installing-lean-cli)
+  4. `conda create -n qc python=3.8` then `conda activate qc`
+  5. `pip install lean`  
+    - If getting `evdev` error, `conda deactivate` (maybe have to run 2+ times to fully get out of conda environments)  
+    - Remove the environment: `conda remove -n qc --all`  
+    - In WSL terminal: `sudo apt-get install python3-dev build-essential` and go back to step 3
+  6. Create empty dir `mkdir quant_connect`
+  7. Get API creds by going to QC website, under account settings will send via email userId and token.
+  8. `lean login` use the creds here
+  9. `lean init`   
+    - GOTCHA: This might look like it hangs at "Pulling quantconnect/lean:latest..." message, but it just takes a long while, wait at least a couple minutes before doing quitting
 
 ## Pitfalls / Warnings / Solutions
 
