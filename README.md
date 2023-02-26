@@ -8,7 +8,7 @@
 
 ## macOS
 
-- [commands](/macOS/commands.ipynb)
+- [notes](/macOS/notes.ipynb)
 
 ## python
 
