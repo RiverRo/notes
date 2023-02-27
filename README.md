@@ -6,6 +6,9 @@
 
 - [path_languages](/document/path_languages.ipynb)
 
+## gcp (Google Cloud Platform)
+
+- [notes](/gcp/notes.ipynb)
 ## macOS
 
 - [notes](/macOS/notes.ipynb)
