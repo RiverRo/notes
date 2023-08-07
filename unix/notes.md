@@ -4,80 +4,18 @@
 
 ## In This Notebook
 
-- Unix
-- Shell
-  - Z Shell
-  - Bash
-- Add git status to bash command prompt
-- General Notes
-- A note regarding paths
-- Shell constructs
-- Shell scripts
-- Commands
-
-## Unix
-
-- Unix is an operating system (manages resources, file directories, i/o)
-
-## Shell
-
-- Interfaces between user and the kernel
-- Shell is a text-only interface program on the user end
-- It is a command-line or command language interpreter
-- A script (sequence of commands) that is passed to a shell is a shell script
-- A shell script can be executed in any shell
-- Shells may be one of Korn, Cshell, Bource, Bash, Z shell (zsh), etc
-
-### Z Shell
-
-- Almost equivalent to Bash but with additional features
-- Has a very large collections of plugins
-- Some additional features:
-  - autocorrect
-  - autocompletion
-- Is now the default shell for MacOS
-
-### Bash
-
-- Bash is a type of shell and can read bash scripts and shell script
-- Bash script is a type of shell script
-- Bash has more features than shell
-  - 1D arrays
-  - Invoked by single or multi-character-command-line options
-
-## Add git status to bash command prompt
-- Open "~/.bashrc"
-```bash
-REPLACE THIS:
-if [ "$color_prompt" = yes ]; then 
-PS1= ...
-else 
-    PS1= ...
-fi 
-
-WITH THIS:
-# git branch info if present
-parse_git_branch() {
-    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
-}
-if [ "$color_prompt" = yes ]; then
-   PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[33m\]$(parse_git_branch)\[\033[00m\]\$ '
-else
-   PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(parse_git_branch)\$ '
-fi
-```
-
-## General Note
-
-- Always use quotes around a filename that contains spaces
-
-## A note regarding paths
-
-- Absolute path values are always the same no matter where I am in the directory
-  - Absolute paths start at home
-- Relative path values are relative to where I am in the directory
-- Root is the name of the head of the entire heirarchical namespace for any UNIX based system
-- Home is the head of a user's file directory and is traditionally the directory that the OS places user just after login
+-   Commands
+-   Password-less connection betwen local machine and remote computer (e.g. raspberry pi)
+-   rclone - Command line program to manage files on cloud storage (~30 different vendors e.g. Google Drive)
+-   Unix
+-   Shell
+    -   Z Shell
+    -   Bash
+-   Add git status to bash command prompt
+-   General Notes
+-   A note regarding paths
+-   Shell constructs
+-   Shell scripts
 
 ## Commands
 
@@ -100,6 +38,136 @@ fi
 | wc            | <br>-l<br>-w<br>-c<br>-m  | Print number to stdout<br>line count<br>word count<br>byte count<br>char count for file(s)                                                                                                                                                                                                         |
 | sort          | <br>-h<br>-r<br>-o        | Sort lines of a file(s) and print to stdout<br>sort by human readable numerical values (e.g. 2K 1G)<br>sort in desc<br>output to a file instead of stdout                                                                                                                                          |
 | uniq          | <br><br>-c                | Filter _ADJACENT_ matching lines of file(s) and print to stdout<br>Sort first <br>prefix line with number of occurences                                                                                                                                                                            |
+
+## Password-less connection betwen local machine and remote computer (e.g. raspberry pi)
+
+1. Generate SSH Key Pair on local machine e.g. MacBook  
+   `ssh-keygen -t rsa`  
+   a. If need password-less entry for automated scripts, leave the passphrase blank else will be prompted to manually enter it
+   b. This will generate a public key (~/.ssh/id_rsa.pub) and a private key (~/.ssh/id_rsa).
+2. Copy Public Key to Remote machine  
+   `ssh-copy-id username@remote_host`
+3. Test SSH Key Authentication - Should be connected with a password  
+   `ssh username@remote_host`
+
+4. Deleting keys must be done manually
+    - Local machine  
+       `cd ~/.ssh`  
+       `rm id_rsa id_rsa.pub`
+        - Remove any config lines associated with the delete key in the config file, but DO NOT delete the file itself  
+           `nano ~/.ssh/config`
+    - Remote machine
+        - Remove lines associated with key of interest, but DO NOT delete authorized keys  
+           `nano ~/.ssh/authorized_keys`
+
+## rclone - Command line program to manage files on cloud storage (~30 different vendors e.g. Google Drive)
+
+> Instructions for [Google Drive](https://rclone.org/drive) on Ubuntu
+
+1. Check if rclone exists  
+   `which rclone`
+2. Intall rclone
+    ```
+    sudo apt-get update
+    sudo apt-get rclone
+    ```
+3. Configure rclone for Google Drive. Plug in keyboard and mouse to raspi - need to use browser
+   `rclone config`
+
+    ```python
+    n/s/q> n                # create new remote
+    name> someNameForDrive  # rclone_drive_name
+    storage_type> drive     # 'drive' For google drive
+    client_id>              # leave blank
+    client_secret>          # leave blank
+    scope: 1
+    root_folder_id>         # leave blank
+    service_account_file>   # leave blank
+    edit advanced config? n
+    use auto config? y
+    configure this as a team drive? n
+    ```
+
+4. Use rclone
+
+    - use `--checksum` file to ensure file integrity
+    - NOTE on syntax
+
+        ```python
+        # Both will copy all files in `<dir_local>` dir to a remote. Reverse order for remote to local copy.
+
+        # Notice the colon at the end. This is required to copy to main drive root dir
+        rclone copy --checksum <absolute_path>/<di_localr> <rclone_drive_name>:
+
+        # Copy to specific dir
+        rclone copy --checksum <absolute_path>/<dir_local> <rclone_drive_name>:<dir_remote>
+        ```
+
+## Unix
+
+-   Unix is an operating system (manages resources, file directories, i/o)
+
+## Shell
+
+-   Interfaces between user and the kernel
+-   Shell is a text-only interface program on the user end
+-   It is a command-line or command language interpreter
+-   A script (sequence of commands) that is passed to a shell is a shell script
+-   A shell script can be executed in any shell
+-   Shells may be one of Korn, Cshell, Bource, Bash, Z shell (zsh), etc
+
+### Z Shell
+
+-   Almost equivalent to Bash but with additional features
+-   Has a very large collections of plugins
+-   Some additional features:
+    -   autocorrect
+    -   autocompletion
+-   Is now the default shell for MacOS
+
+### Bash
+
+-   Bash is a type of shell and can read bash scripts and shell script
+-   Bash script is a type of shell script
+-   Bash has more features than shell
+    -   1D arrays
+    -   Invoked by single or multi-character-command-line options
+
+## Add git status to bash command prompt
+
+-   Open "~/.bashrc"
+
+```bash
+REPLACE THIS:
+if [ "$color_prompt" = yes ]; then
+PS1= ...
+else
+    PS1= ...
+fi
+
+WITH THIS:
+# git branch info if present
+parse_git_branch() {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+if [ "$color_prompt" = yes ]; then
+   PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[33m\]$(parse_git_branch)\[\033[00m\]\$ '
+else
+   PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(parse_git_branch)\$ '
+fi
+```
+
+## General Note
+
+-   Always use quotes around a filename that contains spaces
+
+## A note regarding paths
+
+-   Absolute path values are always the same no matter where I am in the directory
+    -   Absolute paths start at home
+-   Relative path values are relative to where I am in the directory
+-   Root is the name of the head of the entire heirarchical namespace for any UNIX based system
+-   Home is the head of a user's file directory and is traditionally the directory that the OS places user just after login
 
 ## Shell constructs
 
@@ -132,10 +200,10 @@ done'''
 
 ## Shell scripts
 
-- Save shell commands
-- Run a shell script with: bash `scriptname`
-- Scripts can be used in pipes with other commands
-- See `Shell constructs` section for loops in shell scripts
+-   Save shell commands
+-   Run a shell script with: bash `scriptname`
+-   Scripts can be used in pipes with other commands
+-   See `Shell constructs` section for loops in shell scripts
 
 ```python
 # PASS ARGS TO SCRIPT
