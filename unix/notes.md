@@ -39,7 +39,7 @@
 | sort          | <br>-h<br>-r<br>-o        | Sort lines of a file(s) and print to stdout<br>sort by human readable numerical values (e.g. 2K 1G)<br>sort in desc<br>output to a file instead of stdout                                                                                                                                          |
 | uniq          | <br><br>-c                | Filter _ADJACENT_ matching lines of file(s) and print to stdout<br>Sort first <br>prefix line with number of occurences                                                                                                                                                                            |
 
-## Password-less connection betwen local machine and remote computer (e.g. raspberry pi)
+## SSH Keys - Password-less connection betwen local machine and remote computer (e.g. raspberry pi)
 
 1. Generate SSH Key Pair on local machine e.g. MacBook  
    `ssh-keygen -t rsa`  
