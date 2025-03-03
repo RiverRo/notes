@@ -60,23 +60,26 @@
         - Remove lines associated with key of interest, but DO NOT delete authorized keys  
            `nano ~/.ssh/authorized_keys`
 
-## rclone - Command line program to manage files on cloud storage (~30 different vendors e.g. Google Drive)
+## `rclone` - Command line program to manage files on cloud storage platforms e.g. GoogleDrive, Google Photos, Dropbox, OneDrive, iCloud Drive + 30 more
 
 > Instructions for [Google Drive](https://rclone.org/drive) on Ubuntu
 
-1. Check if rclone exists  
-   `which rclone`
-2. Intall rclone
-    ```
-    sudo apt-get update
-    sudo apt-get rclone
-    ```
-3. Configure rclone for Google Drive. Plug in keyboard and mouse to raspi - need to use browser
-   `rclone config`
+| Command | Description |
+| ------- | ----------- |
+`which rclone` | Check if rclone exists  
+`sudo apt-get update` or `sudo apt-get rclone` | Install rclone
+`rclone listremotes` | Get a list of existing remotes
+
+
+### Configure remote access to Google Drive from RaspberryPi4
+ 
+1. **PREREQ: Need a browser on the main to configure this! e.g. Need to plug in a monitor to RPi, can't just SSH into RPi from another computer and configure this. There is a way for headless config but it is more complex. Plug in monitor, keyboard mouse to RPi**
+
+    `rclone config`
 
     ```python
     n/s/q> n                # create new remote
-    name> someNameForDrive  # rclone_drive_name
+    name> someNameAnyNameForDrive  # rclone_drive_name
     storage_type> drive     # 'drive' For google drive
     client_id>              # leave blank
     client_secret>          # leave blank
@@ -88,7 +91,7 @@
     configure this as a team drive? n
     ```
 
-4. Use rclone
+2. Use rclone
 
     - use `--checksum` file to ensure file integrity
     - NOTE on syntax
